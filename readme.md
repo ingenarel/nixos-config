@@ -1,2 +1,1 @@
-my nixos config
-feel free to fuck around with it
+project moved to [shitbox](https://github.com/ingenarel/shitbox)
